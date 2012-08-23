@@ -6,3 +6,5 @@
 *.ear
 *.rar
 *.zip
+
+build/
